@@ -1,8 +1,8 @@
 # node_controlFlow_inside_EJS_example
 
-Super simple example of a node getting the current day.
+Super simple example of passing data using ejs.
 
-Simply returns output based on the current day.
+Simply a todo list that updates with new entries as they are added.
 
 # Notes
 Do not forget to install node, npm, express, nodemon, and run npm i (which installs the packages needed by the repository) to make things work.
